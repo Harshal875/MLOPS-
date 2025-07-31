@@ -2,3 +2,5 @@ Scripts
 pyvenv.cfg
 Lib
 Include
+/data
+S3_data_versions
